@@ -6,7 +6,7 @@ We've prepared a Jupyter notebook that will guide you through the process of cre
 ## Instructions
 
 ####
-Make sure you have followed the instructions in the [classroom](https://classroom.udacity.com/nanodegrees/nd209-beta/parts/4405411f-bdc8-43fb-9e2b-b4b98a61c760/modules/375d6b1e-b31a-4d2e-b33a-996167faf77e/lessons/a4a80417-00cb-4a9c-8cc4-3a091414baa2/concepts/b4b04f6b-ed58-483b-acc7-3e5628ed9478) to setup your environment.
+Make sure you have aaaaafollowed the instructions in the [classroom](https://classroom.udacity.com/nanodegrees/nd209-beta/parts/4405411f-bdc8-43fb-9e2b-b4b98a61c760/modules/375d6b1e-b31a-4d2e-b33a-996167faf77e/lessons/a4a80417-00cb-4a9c-8cc4-3a091414baa2/concepts/b4b04f6b-ed58-483b-acc7-3e5628ed9478) to setup your environment.
 
 #### Run the Notebook
 Run the following commands from the same directory as the commands above.
